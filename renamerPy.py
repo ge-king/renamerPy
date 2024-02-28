@@ -1,6 +1,6 @@
 import os
 
-folder_path = "/path/to/folder/" # replace with the path to your folder
+folder_path = "/path/to/folder/"
 counter = 1
 
 for filename in sorted(os.listdir(folder_path)):
